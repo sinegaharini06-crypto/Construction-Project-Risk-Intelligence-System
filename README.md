@@ -484,3 +484,24 @@ Construction-Project-Risk-Intelligence/
     ├── test_explanation.py
     ├── test_prediction.py
     └── test_preprocessing.py
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- SHAP
+- Joblib
+- Streamlit
+- Matplotlib
+- Seaborn
+
+---
+
+## Running Locally
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/sinegaharini06-crypto/Construction-Project-Risk-Intelligence.git
